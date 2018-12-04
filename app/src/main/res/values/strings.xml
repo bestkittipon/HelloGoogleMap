@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">HelloGoogleMap</string>
     <string name="unknown_error">An unknown error occurred.</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAoR-12AyT5TJZfO_9YSr4gMQ3y-P3iZ9M</string>
 </resources>
